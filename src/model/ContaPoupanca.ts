@@ -22,6 +22,4 @@ export class ContaPoupanca extends Conta {
         console.log(`Dia do aniversário: ${this._aniversario}`);
     }
 
-    
-
 }
